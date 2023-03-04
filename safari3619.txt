@@ -1,1 +1,2 @@
+node1:
 trojan://JMaZNJepQm@mr4.freegsm.xyz:10099#saffari3619%2Fmr4%2F1312

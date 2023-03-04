@@ -1,4 +1,2 @@
 node1:
 trojan://3dOyVIHTKq@mr4.freegsm.xyz:18110#habibi8754%2Fmr4%2F1312
-node2:
-vless://3bb0a602-dc80-4f02-ccdc-ff8355e620d2@m3.gsmfix2.tk:2053?type=ws&security=tls&path=%2F&sni=m3.gsmfix2.tk&flow=xtls-rprx-direct#412%2Fm3%2F-khanomhabibi5257%40gmail.com

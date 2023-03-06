@@ -1,0 +1,2 @@
+node1:
+trojan://5ClQYZZxix@mr4.freegsm.xyz:13759#rezarazavi%2Fmr4%2F1512

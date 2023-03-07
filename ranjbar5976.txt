@@ -1,0 +1,2 @@
+node1:
+trojan://7EIzBCKIT0@mr4.freegsm.xyz:18034#ranjbar5976%2Fmr4%2F1612

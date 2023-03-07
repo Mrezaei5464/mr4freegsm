@@ -1,0 +1,2 @@
+node1:
+trojan://XRnrIdPflM@mr4.freegsm.xyz:15112#bakeri8501%2Fmr4%2F1612

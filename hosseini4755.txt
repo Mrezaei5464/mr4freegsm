@@ -1,0 +1,2 @@
+node1:
+trojan://rxw8aVF2YC@mr4.freegsm.xyz:12733#hosseini4755%2Fmr4%2F1712
